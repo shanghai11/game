@@ -1,0 +1,187 @@
+  
+ shanghai11 Dashboard Inbox 0 Account Settings Log Out Advanced Search Search¡­       Explore GitHub Gist Blog Help shanghai11 / game This repository's default branch is empty! 
+Admin 
+Unwatch 
+1 1 
+Source 
+Commits 
+Network 
+Pull Requests (0) 
+Fork Queue 
+Issues (0) 
+Wiki (0) 
+Graphs 
+Tree: master 
+click here to add a description
+
+click here to add a homepage
+
+Sending Request¡­Downloads click here to add a description
+
+
+  
+Save   Cancel 
+click here to add a homepage
+
+
+  
+Save   Cancel SSH HTTP Git Read-Only  git@github.com:shanghai11/game.gitRead+Write access
+
+game /  
+Dismiss Octotip: You've activated the file finder by pressing t Start typing to filter the file list. Use ¡ü and ¡ý to navigate, enter to view files. 
+
+  name 
+No matching files 
+
+Jump to Line
+ 
+Go 
+Global setup:
+ Set up git
+  git config --global user.name "Your Name"
+  git config --global user.email 602372184@qq.com
+  Add your public key
+        Next steps:
+  mkdir game
+  cd game
+  git init
+  touch README
+  git add README
+  git commit -m 'first commit'
+  git remote add origin git@github.com:shanghai11/game.git
+  git push -u origin master
+      Existing Git Repo?
+  cd existing_git_repo
+  git remote add origin git@github.com:shanghai11/game.git
+  git push -u origin master
+      Importing a Subversion Repo?
+  Click here
+      When you're done:
+  Continue
+GitHub LinksGitHub
+About 
+Blog 
+Features 
+Contact & Support 
+Training 
+Site Status 
+Tools
+GitHub for Mac 
+Issues for iPhone 
+Gist: Code Snippets 
+Enterprise Install 
+Job Board 
+Extras
+GitHub Shop 
+The Octodex 
+Documentation
+GitHub Help 
+Developer API 
+GitHub Flavored Markdown 
+GitHub Pages 
+
+Terms of Service Privacy Security ? 2011 GitHub Inc. All rights reserved.
+ Powered by the Dedicated Servers and
+Cloud Computing of Rackspace Hosting? 
+Keyboard Shortcuts (see all)
+Site wide shortcuts
+s Focus site search 
+? Bring up this help dialog 
+Commit list
+j Move selected down 
+k Move selected up 
+c or o or enter Open commit 
+y Expand URL to its canonical form 
+Pull request list
+j Move selected down 
+k Move selected up 
+o or enter Open issue 
+
+Issues
+j Move selected down 
+k Move selected up 
+x Toggle select target 
+o or enter Open issue 
+I Mark selected as read 
+U Mark selected as unread 
+e Close selected 
+y Remove selected from view 
+c Create issue 
+l Create label 
+i Back to inbox 
+u Back to issues 
+/ Focus issues search 
+
+Network Graph
+¡û or h Scroll left 
+¡ú or l Scroll right 
+¡ü or k Scroll up 
+¡ý or j Scroll down 
+t Toggle visibility of head labels shift ¡û or shift h Scroll all the way left 
+shift ¡ú or shift l Scroll all the way right 
+shift ¡ü or shift k Scroll all the way up 
+shift ¡ý or shift j Scroll all the way down 
+Source Code Browsing
+t Activates the file finder 
+l Jump to line 
+y Expand URL to its canonical form 
+Markdown Cheat Sheet
+Format Text
+Headers
+
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tagText styles
+
+*This text will be italic*
+_This will also be italic_
+**This text will be bold**
+__This will also be bold__
+
+*You **can** combine them*
+Lists
+Unordered
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2bOrdered
+
+1. Item 1
+2. Item 2
+3. Item 3
+   * Item 3a
+   * Item 3bMiscellaneous
+Images
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+Links
+
+http://github.com - automatic!
+[GitHub](http://github.com)Blockquotes
+
+As Kanye West said:
+> We're living the future so
+> the present is our past.
+
+Code Examples in Markdown
+Syntax highlighting with GFM
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```Or, indent your code 4 spaces
+
+Here is a Python code example
+without syntax highlighting:
+
+    def foo:
+      if not bar:
+        return trueInline code for comments
+
+I think you should use an
+`<addr>` element here instead.
